@@ -2734,6 +2734,7 @@ html {
 
 .response-features {
   font-size: small;
+  flex:1;
 }
 
 .SBG {
@@ -3252,6 +3253,9 @@ font-size: 16px;
   }
   .response-icons i{
     font-size: 15px;
+    width: 30px;
+        height: 30px;
+   
   }
   .outer-response-features{
     display: flex;
